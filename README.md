@@ -28,9 +28,10 @@ A simple, user-friendly personal task management app built with React. Add, edit
 
 ## Live Demo
 
-[Link to deployed application]
+[Click to see the live Demo](https://personal-task-tracker-zeta.vercel.app/)
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 1](screenshots/screenshot1.png)  
 ![Screenshot 2](screenshots/screenshot2.png)
+
